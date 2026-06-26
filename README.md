@@ -83,7 +83,7 @@ Please adhere to this project's [code of conduct](code-of-conduct.md).
 
 ## Feedback
 
-If you have any feedback, please reach out to us at subhendukundu14@gmail.com
+If you have any feedback, please reach out to us at mawanthadeeganu.l.b@gmail.com
 
 
 ## FAQ
@@ -107,7 +107,7 @@ Start tracking for free, then add a site plan to track more. Account plans unloc
   
 
 ## ✍️ Authors
-- [@subhendukundu](https://www.github.com/subhendukundu)
+- [@Mawantha5336](https://github.com/Mawantha5336)
 
 ## 💼 License
-[MIT](https://github.com/subhendukundu/cool-bio-analytics/blob/main/LICENSE)
+[MIT](https://github.com/Mawantha5336/cool-bio-analytics/blob/main/LICENSE)
